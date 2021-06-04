@@ -1,1 +1,6 @@
-# Assigment-1
+The Assignment 1 consists of functions, modules, submodules and psuedo codes to give us a platform on how organisations preform their tasks digitally using information systems.
+Basically the different parts listed in number 1 is combined forms the overall structure on how the organisation functions in order to keep performing efficiently.
+The codes in the assignment gives us an insight on how the process actually works, by implementing the input, such as adding the cash given at register, the porcess where the computer calculates the amount given minus the price of the product, therefore the output will be the change given to the customers, hence this executions are within the payroll module taking place in the submodules
+The functions are there to predict the psuedo code as well as to give structure of the different modules as well as their processes which would be the submodules.
+Forinstance they help to show how the employees are hire, searched for, the payments of the employees and removed in this case fired, the stock that needs to be ordered if out of stock, basically it helps keep track of everything going on in the shop or organisation.
+The flowcharts are just the prerequizit of the pseuudo codes made and help show what comes next depending on what is given or available forinstance if customer gives chsh display change alls no cash, no product therefore customer does not consume anything.
